@@ -1,0 +1,11 @@
+h2.intro {
+  color: blue;
+  font-size: larger;
+}
+p.intro {
+  color: bisque;
+  font-style: italic;
+}
+img.intro {
+  border-radius: 50%;
+}
