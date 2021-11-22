@@ -1,13 +1,9 @@
 h1 {
   color: aliceblue;
 }
-h2.intro {
-  color: blue;
-  font-size: larger;
+.intro{
+  background: grey;
 }
-p.intro {
-  color: bisque;
-  font-style: italic;
 }
 img.intro {
   border-radius: 50%;
