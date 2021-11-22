@@ -1,3 +1,6 @@
+h1 {
+  color: aliceblue;
+}
 h2.intro {
   color: blue;
   font-size: larger;
@@ -8,4 +11,11 @@ p.intro {
 }
 img.intro {
   border-radius: 50%;
+}
+p {
+  color: aliceblue;
+}
+body {
+  background-color: black;
+  text-align: center;
 }
