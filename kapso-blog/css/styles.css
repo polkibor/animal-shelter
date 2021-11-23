@@ -1,0 +1,13 @@
+h1 {
+  color: orange;
+  font-size: xx-large;
+}
+h2.blog {
+  color: olive;
+  font-size: x-large;
+
+}
+p.blog {
+  color: green;
+  font-family: monospace;
+}
