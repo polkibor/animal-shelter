@@ -1,13 +1,23 @@
 h1 {
   color: orange;
   font-size: xx-large;
+  background-color: olive;
 }
-h2.blog {
-  color: olive;
+.blog1 {
+  background-color: olive;
   font-size: x-large;
-
 }
-p.blog {
-  color: green;
-  font-family: monospace;
+.blog2 {
+  background-color: gray;
+  font-size: x-large;
+}
+.blog3 {
+  background-color: peru;
+  font-size: x-large;
+}
+.blog4 {
+  background-color: indigo;
+}
+body {
+  text-align: center;
 }
