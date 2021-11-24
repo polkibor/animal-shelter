@@ -18,6 +18,13 @@ h1 {
 .blog4 {
   background-color: indigo;
 }
+
+h2.about{
+  background-color: burlywood;
+}
+.about{
+  background-color: chocolate;
+}
 body {
   text-align: center;
 }
